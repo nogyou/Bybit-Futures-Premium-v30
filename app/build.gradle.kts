@@ -1,2 +1,2 @@
 plugins { id("com.android.application") }
-android { namespace = "com.bybit.premiumv3"; compileSdk = 35; defaultConfig { applicationId = "com.bybit.premiumv3"; minSdk = 26; targetSdk = 28; versionCode = 1; versionName = "3.0.0-alpha1" } ; compileOptions { sourceCompatibility = JavaVersion.VERSION_17; targetCompatibility = JavaVersion.VERSION_17 } }
+android { namespace = "com.bybit.premiumv3"; compileSdk = 35; defaultConfig { applicationId = "com.bybit.premiumv3"; minSdk = 26; targetSdk = 35; versionCode = 1; versionName = "3.0.0-alpha1" } ; compileOptions { sourceCompatibility = JavaVersion.VERSION_17; targetCompatibility = JavaVersion.VERSION_17 } }
